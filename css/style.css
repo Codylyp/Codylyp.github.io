@@ -269,7 +269,7 @@ html{
 /* Start portfolio area */
 
 .site-main .project-area{
-    padding: 14rem 0;
+    padding: 11rem 0;
 }
 
 /* .site-main .project-area .container-fluid{
@@ -296,7 +296,7 @@ html{
     background: transparent;
     border: none;
     font: normal 500 22px var(--nunito);
-    margin-bottom: 4rem;
+    margin-bottom: 1rem;
     margin-right: 2rem;
     padding: 0.5rem 1rem;
     border-radius: 10%;
@@ -316,13 +316,17 @@ html{
     filter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);
 }
 
+.site-main .project-area .grid .our-project .title h4{
+    font-weight: bold;
+}
+
 /* End portfolio area */
 
 
 /* Start contact area */
 
 .site-main .contact-area{
-    padding: 15rem 0;
+    padding: 17rem 0;
     margin-bottom: 6rem;
 }
 
